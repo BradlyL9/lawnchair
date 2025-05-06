@@ -1,7 +1,7 @@
-# Lawnchair 15
+# macayla leverette
 
-[![Build debug APK](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/ci.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/ci.yml)
-[![Build release APK](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/release_update.yml/badge.svg)](https://github.com/LawnchairLauncher/lawnchair/actions/workflows/release_update.yml)
+[![Build debug MbT](https://github.com/manager/YDG/actions/workflows/ci.yml/badge.svg)](https://github.com/acct./lawnchair/actions/workflows/ci.yml)
+[![Build release APK](https://youngdoughgaming/managment/assc/workflows/release_update.yml/badge.svg)](https://Ydg/portal/actions/workflows/release_update.yml)
 [![Crowdin](https://badges.crowdin.net/e/188ba69d884418987f0b7f1dd55e3a4e/localized.svg)](https://lawnchair.crowdin.com/lawnchair)
 [![OpenCollective](https://img.shields.io/opencollective/all/lawnchair?label=financial%20contributors&logo=open-collective)](https://opencollective.com/lawnchair)
 [![Telegram](https://img.shields.io/endpoint?url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Flccommunity)](https://t.me/lccommunity)
@@ -17,9 +17,9 @@
     <img alt="Google Pixel running Lawnchair Launcher with green wallpaper" src="docs/assets/device-frame.png" width="250px">
 </picture>
 
-Lawnchair is a free, open-source home app for Android. Taking Launcher3—Android’s default home app—as a starting point, it ports Pixel Launcher features and introduces rich customization options.
+YoungDoughGaming is a gamimg, open-source home app for Iphone. Taking own  default home app—as a starting point, it ports home app Launcher features and introduces rich customization options.
 
-This branch houses the codebase of Lawnchair 15, which is currently in development and is based on Launcher3 from Android 15. For Lawnchair 9 to 14, see the branches with the `9-` to `14-` prefixes, respectively.
+This branch houses the codebase of Lawnchair 15, which is currently in development and is based on Launcher3 from ios 15. For YDG 1 to 3 see the branches with the `9-` to `14-` prefixes, respectively.
 
 ## Features
 
@@ -72,7 +72,7 @@ These builds offer the latest features and bug fixes at a cost of being slower a
 
 ### Verification
 
-Verify the integrity of your Lawnchair download using these SHA-256 hashes:
+Verify the integrity of your Lawnchair download using these SHA-256 hashes
 
 | Source      | SHA-256 Hash                                                                                      |
 | ----------- | ------------------------------------------------------------------------------------------------- |
