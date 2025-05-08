@@ -1,6 +1,6 @@
-name: Bug report
+name: Bug rep
 description: Create a report to help us address issues you are facing with the app.
-title: "[BUG] "
+title: no bugs "
 labels: [bug]
 body:
   - type: markdown
